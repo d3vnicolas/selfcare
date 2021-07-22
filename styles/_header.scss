@@ -1,0 +1,42 @@
+.header--container{
+    @include limits();
+
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    align-items: center;
+
+    margin: 16px auto;
+
+    nav{
+        justify-self: end;
+
+        ul{
+            list-style: none;
+            display: flex;
+
+
+            font-size: 16pt;
+
+            a{
+                padding: 8px;
+                margin: 0 5px;
+                color: $principalColor;
+
+                svg{
+                    width: 32px;
+                    height: 32px;
+                }
+            }
+        }
+    }
+}
+
+.header--banner{
+    background: url('../assets/banner.png') center center no-repeat;
+    background-size: cover;
+    width: 100%;
+    // max-width: 1440px;
+    height: 50vh;
+}
+
