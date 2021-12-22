@@ -1,62 +1,93 @@
-<br />
-<p align="center">
- 
-   <img src="design/desktop.png" width="380" height="600">
+<h1 align="center">Selfcare Devchallenge </h1>
 
-
-  <h3 align="center">selfcare</h3>
-
-  <p align="center">
-    Crie uma página para exibição de produtos
-       <br />
-    <br />
-    <a href="https://github.com/thaysagomes/selfcare">Desafio</a>
-    ·
-    <a href="https://www.linkedin.com/in/tcgms/">Contato</a>
-  </p>
+## Desafio 🎯
+<p>
+  Desenvolver a página de acordo com o layout, aproximando o máximo possível do fornecido no desafio.
 </p>
 
 
 
-# Devchallenge 
-<a href="https://devchallenge.now.sh/">DevChallenge</a> permite que você evolua suas skills como programador!
+## Tecnologias 🚀
 
-# Desafio
-Seu desafio será construir uma página para exibição de produtos de uma loja online chamada <strong>selfcare</strong>. <br><br>
+- HTML
+- CSS
+- JavaScript
 
-# Techs: 
-HTML<br>
-CSS<br>
-Framework ou linguagem que preferir
+<br>
 
-# Como começar:
-1 - Use esse template (clicando em Use this template) ou faça um fork deste repositório com o código inicial<br>
-2 - Leia as instruções no readme.md<br>
-3 - Comece a codar!<br>
-4 - Compartilhe seu resultado com a comunidade :)<br>
+## Screenshots 📸
 
-# Requisitos:
-- Sua página deve se parecer o mais próximo possível do design<br>
-- Sua página deve ser responsiva<br>
+<br>
 
-# Cores:
-Verde: #5CA720<br>
-Preto: #161616<br>
-Cinza (linhas divisórias): #A5A1A1<br>
-Cinza (background do footer): #F9F9F9
+<p>
+  Fornecido pelo desafio:
+</p>
+<p align="center">
+  <img src="./design/desktop.png" width="700">
+</p>
 
-# Design:
-Modelo está disponível na pasta `./design`<br>
-Imagens estão disponíveis na pasta `./assets`<br>
+<p>
+  Resultado final:
+</p>
+<p align="center">
+  <img src="./assets/screenshots/screenshot-full.png" width="700">
+</p>
 
-- O layout pode ser visto e copiado diretamente do Figma por este link: https://www.figma.com/file/d3XuxUt94vr0o4kBSo7IHC/Dev-Challenge?node-id=0%3A1. Nesse arquivo, você pode exportar imagens e ícones como desejar. 
+<p>
+  Fornecido pelo desafio:
+</p>
 
-# Fonte utilizada:
-- Lato
+<p align="center">
+  <img src="./design/mobile.png" width="500">
+</p>
 
-# Compartilhe!
-- Inicie seu projeto utilizando esse template no seu github como um repositório público<br>
-- Faça um print, gif ou vídeo e compartilhe o resultado no seu Linkedin<br>
-- Você também pode adicionar uma "issue" neste repositório mostrando seu resultado final!<br>
+<p>
+  Resultado final:
+</p>
 
-Desafio criado por <a href="https://github.com/thaysagomes">Thaysa Gomes</a> :)
+<p align="center">
+  <img src="./assets/screenshots/screenshot-full-mobile.png" width="500">
+</p>
+
+<br>
+
+## Como rodar ❓
+
+```bash
+
+git clone https://github.com/d3vnicolas/selfcare.git
+
+cd selfcare
+
+duplo clique no index.html
+
+```
+
+##  Contribua comigo 🤗
+
+<br>
+
+- Faça um fork desse repositório.
+- Marque com star.
+- Entre em contato para dúvidas ou sugestões.
+
+<br>
+<br>
+
+##  Desenvolvedor 👨🏽‍💻
+
+<table align="center">
+    <tr>
+        <td align="center">
+            <a href="https://github.com/d3vnicolas">
+                <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFTs-I4ZgLsLw/profile-displayphoto-shrink_200_200/0/1631751270500?e=1644451200&v=beta&t=7uU-qI1uesTSunIOe_FB8OLE6FOgk7R9lqUtJ36ORos" width="150px;" alt="Imagem de perfil Nicolas Soares" />
+            </a>
+        </td>    
+    </tr>
+</table>
+<h3 align="center">
+   Feito com ❤️ por:  <a href="https://www.linkedin.com/in/nicolas-soares-887655220/" target="_blank"> Nicolas Soares </a>
+</h3>
+
+
+
