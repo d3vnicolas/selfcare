@@ -10,8 +10,7 @@
 ## Tecnologias 🚀
 
 - HTML
-- CSS
-- JavaScript
+- Scss
 
 <br>
 
